@@ -4,7 +4,7 @@ import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
 import Resumecontent from "./ResumeContent";
 import axios from "axios";
-import pdf from "../../Assets/Roma-Fominih CV.pdf";
+import pdf from "../../Assets/Roma CV May 2021.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 
 function Resume() {

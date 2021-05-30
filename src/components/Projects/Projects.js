@@ -25,8 +25,8 @@ function Projects() {
               imgPath={Cartoonify}
               isBlog={false}
               title="Cartoonify"
-              description="Coming Soon"
-              link=" "
+              description="Implementation of cv2 and other packages to convert a real photo to cartoon one"
+              link="https://github.com/RomaFom/Cartoonify"
             />
           </Col>
 
@@ -35,8 +35,8 @@ function Projects() {
               imgPath={Schedule}
               isBlog={false}
               title="Scheduler"
-              description="Coming Soon"
-              link=" "
+              description="Built a simple web app using React and Node that allowed workers at workshop to check their schedule tasks"
+              link="https://github.com/RomaFom/CleaningSchedule"
             />
           </Col>
 
@@ -44,8 +44,8 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Space War"
-              description="Coming Soon"
+              title="Space War - In progress"
+              description="Space-Ship War is a 2D mini game project, is implementing coding logics and techniques using: C# and WPF"
               link=" "
             />
           </Col>
