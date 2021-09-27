@@ -35,14 +35,7 @@ function Footer() {
                 <FaLinkedinIn />
               </a>
             </li>
-            <li className="social-icons">
-              <a
-                href="https://www.instagram.com/roma_fominih/"
-                style={{ color: "white" }}
-              >
-                <AiFillInstagram />
-              </a>
-            </li>
+          
           </ul>
         </Col>
       </Row>

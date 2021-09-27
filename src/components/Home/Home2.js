@@ -22,29 +22,39 @@ function Home2() {
               I love programming and explore new methods, frameworks and
               technologies
               <br />
-              <br />I am fluent in classics like
+              <br />Two years ago my programming journey began. Beyond university studies i'm a self-learner. I work hard, days and nights to study new fields beyond academic studies
               <i>
-                <b className="purple"> C#, Javascript and Python. </b>
+                <b className="purple"> Full-Stack, Node, Django, React and more </b>
               </i>
               <br />
               <br />
               My field of Interest's are learning new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
+                <b className="purple">Web Technologies and Frameworks </b> and
+                also the{" "}
                 <b className="purple">Data Structures and Algorithms.</b>
               </i>
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with
+              but not in code..
               <i>
-                <b className="purple"> Modern Javascript Frameworks</b>
+                <b className="purple"> With metals</b>
               </i>
-              &nbsp; like
+              &nbsp; build physical products. With my knowledge today also incorporating new technologies
               <i>
-                <b className="purple"> Node.js and React.js</b>
+                <b className="purple"> Turning a motorcycle into an electric motorcycle</b>
               </i>
+              &nbsp; another example is
+              <i>
+                <b className="purple"> Arduino based iron gates</b>
+              </i>
+              &nbsp; and
+               <i>
+                <b className="purple">Only code based solution for electrostatic disorders</b>
+              </i>
+              &nbsp; instead of faraday cage for electronic box
+
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -81,16 +91,7 @@ function Home2() {
                   <FaLinkedinIn />
                 </a>
               </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.instagram.com/roma_fominih/"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour home-social-icons"
-                >
-                  <AiFillInstagram />
-                </a>
-              </li>
+             
             </ul>
           </Col>
         </Row>

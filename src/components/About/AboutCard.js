@@ -28,10 +28,13 @@ function AboutCard() {
           </ul>
 
           <p style={{ marginBlockEnd: 0, color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "A bug is never just a mistake.
+            It represents something bigger.
+            An error of thinking.
+            That makes you who you are"{" "}
           </p>
           <br/>
-          <footer className="blockquote-footer">RomaFom</footer>
+          <footer className="blockquote-footer">Mr.Robot</footer>
         </blockquote>
       </Card.Body>
     </Card>

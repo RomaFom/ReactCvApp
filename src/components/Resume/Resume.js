@@ -4,7 +4,7 @@ import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
 import Resumecontent from "./ResumeContent";
 import axios from "axios";
-import pdf from "../../Assets/Roma CV May 2021.pdf";
+import pdf from "../../Assets/Roma-CV-Oct-2021.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 
 function Resume() {
@@ -19,11 +19,14 @@ function Resume() {
             <Resumecontent
               title="BSc Software Engineering"
               date="2019 - Present"
-              content={[`GPA: 90`, "Graduate: July 2023"]}
+              content={[`GPA: 87`, "Graduate: July 2023"]}
             />
             <Resumecontent
               title="Relevant Courses"
               content={[
+                "Machine Learning",
+                "SQL",
+                "Automata Formal Languages",
                 "Data Structures & Algorithms",
                 "C.S introduction",
                 "Object Oriented Programming",

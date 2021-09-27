@@ -4,14 +4,14 @@ import {
   SiWindows,
   SiVisualstudiocode,
   SiPostman,
-  SiHeroku,
+  SiHeroku,SiUbuntu,
 } from "react-icons/si";
 
 function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <SiWindows />
+        <SiUbuntu />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiVisualstudiocode />
